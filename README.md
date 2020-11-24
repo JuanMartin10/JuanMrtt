@@ -1,7 +1,7 @@
-# Hello 👋🏼👨🏻‍💻
+# Hi, I'm Juan! 👋🏼👨🏻‍💻
 
 
-Hi, I'm Juan! I'm a javascript fullstack junior developer who is passionate about technology specialist on MERN stack & React Native. 
+I'm a javascript fullstack junior developer who is passionate about technology specialist on MERN stack & React Native. 
 
 Passionate about technology. I have graduated in Business Administration, lived in United Kingdom and worked as an Accountant and IT-Recruiter. After all, I began to study Web Development, what I love since I was child . For that, I began my experience in this world enjoying IronHack experience.
 
